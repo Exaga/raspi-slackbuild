@@ -22,4 +22,3 @@ to build, for example:
   cd kernel_raspi/linux
   git checkout -b rpi-3.12.y -t origin/rpi-3.12.y
   cd -
-
